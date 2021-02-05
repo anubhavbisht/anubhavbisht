@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <hi align="center">Hello everyone I am Anubhav Bisht and I am starting to learn programming and give it my best everyday 👋</h1>
 
-- 🔭 I’m currently a student pursuing my bachelors in ECE and studying to become a goode developer
+- 🔭 I’m currently a student pursuing my bachelors in ECE and studying to become a good software developer
 - 💬 Ask me about <strong>Python,Data Structure and Algorithms,Linux,Git,Bash Scripting,C</strong>
 - 🌱 I’m currently learning <strong>Data Structure and Algorithms,Java,Full Stack Web Development</strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/anubhavbisht/" target="_blank">Anubhav Bisht</a>
