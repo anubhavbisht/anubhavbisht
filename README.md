@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1187/1*0FqDC0_r1f5xFz3IywLYRA.jpeg" height="200" width="220"> 
+  <img src="https://miro.medium.com/max/1187/1*0FqDC0_r1f5xFz3IywLYRA.jpeg" height="200" width="240"> 
   <img src="https://github-readme-stats.vercel.app/api?username=anubhavbisht&show_icons=true" alt="AnubhavBisht">
 </p>
