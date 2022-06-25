@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<hi align="center">Hello everyone I am Anubhav Bisht and I am starting to learn programming and give it my best everyday 👋</h1>
+<hi align="center">Hello everyone I am Anubhav Bisht and I am learning how to code and give it my best everyday 👋</h1>
 
-- 🔭 I’m currently a student pursuing my bachelors in ECE and studying to become a good software developer
-- 💬 Ask me about <strong>Python,Data Structure and Algorithms,Linux,Git,Bash Scripting,C</strong>
+- 🔭 I’m currently a software developer(full stack web developemnt) at Zykrr 
+- 💬 Ask me about <strong>Python,Javascript,React,NodeJS,MySQL,GraphQL,Data Structure and Algorithms,Linux,Git,Bash Scripting,C</strong>
 - 🌱 I’m currently learning <strong>Data Structure and Algorithms,Java,Full Stack Web Development</strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/anubhavbisht/" target="_blank">Anubhav Bisht</a>
 - My coding profiles: <a href="https://leetcode.com/anubhavbisht98/" target="_blank">Leetcode</a>
