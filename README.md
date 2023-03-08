@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <hi align="center">Hello everyone I am Anubhav Bisht and I am learning how to code and give it my best everyday 👋</h1>
 
-- 🔭 I’m currently a software developer(full stack web developemnt) at Zykrr 
+- 🔭 I’m currently a software developer(full stack web development) at Zykrr 
 - 💬 Ask me about <strong>Python,Javascript,React,NodeJS,MySQL,GraphQL,Data Structure and Algorithms,Linux,Git,Bash Scripting,C</strong>
 - 🌱 I’m currently learning <strong>Data Structure and Algorithms,Java,Full Stack Web Development</strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/anubhavbisht/" target="_blank">Anubhav Bisht</a>
