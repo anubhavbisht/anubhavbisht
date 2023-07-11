@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <hi align="center">Hello everyone I am Anubhav Bisht and I am learning how to code and give it my best everyday 👋</h1>
 
-- 🔭 I’m currently a software developer(full stack web development) at Zykrr 
+- 🔭 I’m currently working as a software developer(full stack web development) at Zykrr 
 - 💬 Ask me about <strong>Python,Javascript,React,NodeJS,MySQL,GraphQL,Data Structure and Algorithms,Linux,Git,Bash Scripting,C</strong>
 - 🌱 I’m currently learning <strong>Data Structure and Algorithms,Java,Full Stack Web Development</strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/anubhavbisht/" target="_blank">Anubhav Bisht</a>
@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://miro.medium.com/max/1187/1*0FqDC0_r1f5xFz3IywLYRA.jpeg" height="200" width="240"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=anubhavbisht&show_icons=true" alt="AnubhavBisht">
+  <img src="https://github-readme-stats-eight-tau-20.vercel.app/api?username=anubhavbisht&show_icons=true" alt="AnubhavBisht">
   <a href="https://app.daily.dev/majin"><img src="https://api.daily.dev/devcards/01073bbb2f964841a0ed7fe188938989.png?r=u0e" width="400" alt="Anubhav Bisht's Dev Card"/></a>
 </p>
