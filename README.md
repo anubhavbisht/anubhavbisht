@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://miro.medium.com/max/1187/1*0FqDC0_r1f5xFz3IywLYRA.jpeg" height="200" width="240"> 
   <img src="https://github-readme-stats-eight-tau-20.vercel.app/api?username=anubhavbisht&show_icons=true" alt="AnubhavBisht">
-  <a href="https://app.daily.dev/majin"><img src="https://api.daily.dev/devcards/01073bbb2f964841a0ed7fe188938989.png?r=u0e" width="400" alt="Anubhav Bisht's Dev Card"/></a>
+<!--   <a href="https://app.daily.dev/majin"><img src="https://api.daily.dev/devcards/01073bbb2f964841a0ed7fe188938989.png?r=u0e" width="400" alt="Anubhav Bisht's Dev Card"/></a> -->
 </p>
