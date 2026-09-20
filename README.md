@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Anubhav%20Bisht&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=I%20build%20LLM%20agents%20that%20do%20real%20work&descSize=16&descAlignY=55" width="100%" />
 
-<a href="https://github.com/anubhavbisht"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=LangGraph+state+machines+in+TypeScript;Agents+that+stop+for+a+reason%2C+not+a+token+budget;RAG+pipelines+%C2%B7+tool+calling+%C2%B7+multi-agent+routing;Distributed+backends+with+NestJS+%2B+Nx" alt="what I build" /></a>
+<a href="https://github.com/anubhavbisht"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=740&height=50&lines=LangGraph+state+machines+in+TypeScript;Agents+that+stop+for+a+reason%2C+not+a+token+budget;RAG+pipelines+%C2%B7+tool+calling+%C2%B7+multi-agent+routing;Distributed+backends+with+NestJS+%2B+Nx" alt="what I build" /></a>
 
 <br/>
 
