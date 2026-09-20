@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Anubhav%20Bisht&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=I%20build%20LLM%20agents%20that%20do%20real%20work&descSize=16&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Anubhav%20Bisht&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Lead%20Engineer%20%40%20Zykrr%20%C2%B7%20LLM%20agents%20and%20the%20backends%20they%20run%20on&descSize=16&descAlignY=55" width="100%" />
 
-<a href="https://github.com/anubhavbisht"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=740&height=50&lines=LangGraph+state+machines+in+TypeScript;Agents+that+stop+for+a+reason%2C+not+a+token+budget;RAG+pipelines+%C2%B7+tool+calling+%C2%B7+multi-agent+routing;Distributed+backends+with+NestJS+%2B+Nx" alt="what I build" /></a>
+<a href="https://github.com/anubhavbisht"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=740&height=50&lines=Lead+Engineer+%40+Zykrr;LangGraph+state+machines+in+TypeScript;Agents+that+stop+for+a+reason%2C+not+a+token+budget;RAG+pipelines+%C2%B7+tool+calling+%C2%B7+multi-agent+routing;Distributed+backends+with+NestJS+%2B+Nx;Currently+reading+DDIA+by+Martin+Kleppmann" alt="what I build" /></a>
 
 <br/>
 
@@ -16,16 +16,24 @@
 
 ### About me
 
-Full-stack developer working my way down the stack into **AI agent engineering**.
+**Lead Engineer at [Zykrr](https://www.zykrr.com/)** — building products end to end, and
+the AI agents that are starting to sit inside them.
 
-Most of what I ship now is built on **LangGraph in TypeScript**: agents with explicit
+Most of what I ship on my own time is **LangGraph in TypeScript**: agents with explicit
 state machines, tool calls that hit real APIs, and loops that stop for a reason rather
 than when a token budget runs out. I care about the parts people skip — routing you can
 test, revision caps, grounded stopping conditions, tracing.
 
+The other half of my attention is **distributed systems**. Leading a team made the gap
+obvious: writing a service is the easy part, and deciding how several of them fail
+together is the part I want to be good at. So I'm working through
+**[Designing Data-Intensive Applications](https://dataintensive.net/)** and pushing what
+it teaches into real projects — [ds-job](https://github.com/anubhavbisht/ds-job) is where
+that lands.
+
 - Currently building — multi-agent systems: Reflexion loops, RAG pipelines, tool-using assistants
-- Currently learning — evaluation & observability for LLM apps (Langfuse, OpenTelemetry), NestJS, DSA
-- Ask me about — LangGraph state machines, RAG, tool calling, TypeScript, Bun, Node
+- Currently learning — system design and distributed systems (DDIA, Kleppmann) · LLM evaluation & observability (Langfuse, OpenTelemetry)
+- Ask me about — LangGraph state machines, RAG, tool calling, TypeScript, Node, Postgres/ClickHouse
 - Also on — [LeetCode](https://leetcode.com/anubhavbisht98/) · [InterviewBit](https://www.interviewbit.com/profile/anubhav-bisht)
 - Reach me — [LinkedIn](https://www.linkedin.com/in/anubhavbisht/) · anubhavbisht98@gmail.com
 
@@ -94,7 +102,7 @@ service owning its own schema so none of them reaches into another's tables.
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=lightning&logoColor=white" />
-<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Langfuse-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
 <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
 </p>
@@ -107,19 +115,32 @@ service owning its own schema so none of them reaches into another's tables.
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
-**Data & Tools**
+**Data**
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" />
+<img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+**Cloud, CI & Infra**
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
